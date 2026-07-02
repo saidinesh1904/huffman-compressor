@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+Huffman coding assigns shorter binary codes to more frequent characters.
+This results in significant compression for typical text files.
+The algorithm was developed by David A. Huffman in 1952 as a student at MIT.
+Compression ratio depends heavily on character frequency distribution.
